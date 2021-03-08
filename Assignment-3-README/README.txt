@@ -23,12 +23,17 @@ DATA AND FILE OVERVIEW
 	B. SeniorProject_NYU_Zotero.ipynb - contains the code used to transform the original dataset in Jupyter Notebooks
 	C. SeniorProject_CleanedExport - contains the Zotero entry dataset after transformation and cleaning. This file was created on 2021-03-07
 2. This is a subset of Zotero entries for the primary investigator's 2020 Senior Project.  These entries are for texts read after approval of the research proposal.
+Many, but not all, of these texts were cited in the final research document.
 
 METHODOLOGICAL INFORMATION
-1. The data was collected through a combination of keyword searches and citation information for texts that had already been read and entered in Zoteor.
+1. The data was collected through a combination of keyword searches and citation information for texts that had already been read and entered in Zotero.
 Keyword searches included "Piaget Stages of Development" and "Constructivism Critical Literacy".
 2. Citation information for each text was entered manually into Zotero using the document read.  After that, the primary investigator manually entered notes explaining the argument and context of the text.
 Finally, the primary investigator described in the same note a critique of that text or a way in which that text fits into her research argument.
+Notes were entered in the format shown below - 
+	Argument:
+	Context:
+	Critique / My Intervention:
 3. Zotero (versions 5.0.87 - 5.0.92) was used for recording data.  Jupyter Notebook (version 6.2.0) was used for cleaning and transforming data.
 
 DATA-SPECIFIC INFORMATION FOR SeniorProject_RawExport.csv
