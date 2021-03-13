@@ -34,7 +34,10 @@ Notes were entered in the format shown below -
 	Argument:
 	Context:
 	Critique / My Intervention:
+These three sections align with a recommendation from a former professor of mine, David E. Kirkland, who explained that critically understanding a document requires these three levels of consideration.
 3. Zotero (versions 5.0.87 - 5.0.92) was used for recording data.  Jupyter Notebook (version 6.2.0) was used for cleaning and transforming data.
+4. Quality-assurance procedures were not performed on the data.  All texts come from journals in the EBSCO Discovery Service, but it is unclear whether these are peer-reviewed journals.
+While I did not assess the quality of texts through traditional modes (ex. whether the text is contained in a peer-reviewed journal), I did ensure that I read the ideas contained within each text critically.
 
 DATA-SPECIFIC INFORMATION FOR SeniorProject_RawExport.csv
 1. Number of variables: 87
